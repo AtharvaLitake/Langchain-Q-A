@@ -26,8 +26,9 @@ This repository contains a simple yet powerful Q&A app developed using Streamlit
 - Receive accurate and relevant answers
 - User-friendly interface powered by Streamlit
 - Easily deployable for quick access
-- 
-<img width="616" alt="q a demo" src="https://github.com/AtharvaLitake/Langchain-Learnings-using-Q-A/assets/112816126/67f791ad-8b25-4547-aa86-f2a8affb81f1">
+
+<img width="616" alt="q a demo" src="https://github.com/AtharvaLitake/Langchain-Q-A/assets/112816126/400bedf9-76d6-4bf1-9114-56adb050d4b4">
+
 
 ### How to Run
 
